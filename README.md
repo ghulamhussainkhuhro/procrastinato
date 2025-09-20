@@ -2,16 +2,8 @@
 
 A fullstack AI-powered chatbot that delivers **funny, personalized roasts** to procrastinators — because sometimes tough love works better than motivation 😅.  
 
-This project was built as part of the **Buildables Fellowship** and submitted to our team lead [**Maam Momina**](https://github.com/mominaayub) ❤️.  
+This project was built as part of the **Buildables Fellowship** and submitted to our team lead [**Maam Momina**](https://github.com/momina02).  
 It was one of the official **tasks assigned in the Buildables Fellowship** journey.
-
----
-
-## 🧑‍🤝‍🧑 Team & Fellowship
-
-* Built during **Buildables Fellowship** 🏗️.
-* Guided by our team lead [**Maam Momina**](https://github.com/momina02).
-* This project was part of the **assigned tasks** to practice **Chatbots**.
 
 ---
 
@@ -113,6 +105,15 @@ npm run dev
 
 Visit → [http://localhost:5173](http://localhost:5173)
 
+
+---
+
+## 🧑‍🤝‍🧑 Team & Fellowship
+
+* Built during **Buildables Fellowship** 🏗️.
+* Guided by our team lead [**Maam Momina**](https://github.com/momina02).
+* This project was part of the **assigned tasks** to practice **Chatbots**.
+
 ---
 
 ## 🛠 Current Status
@@ -140,3 +141,4 @@ Visit → [http://localhost:5173](http://localhost:5173)
 MIT License — free to use and modify with attribution.
 
 ```
+
