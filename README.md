@@ -5,6 +5,20 @@ A fullstack AI-powered chatbot that delivers **funny, personalized roasts** to p
 This project was built as part of the **Buildables Fellowship** and submitted to our team lead [**Maam Momina**](https://github.com/momina02).  
 It was one of the official **tasks assigned in the Buildables Fellowship** journey.
 
+## 📸 Screenshots
+
+The chatbot is **not live yet**, but you can still see its working responses and interface screenshots here in the repo.  
+
+All screenshots are stored inside:  
+[`docs/screenshots/`](./docs/screenshots/)
+
+### Example:
+- Chat window showing roast conversation.  
+- Funny roast outputs powered by Groq API.  
+
+*(More coming soon as features improve!)*
+
+
 ---
 
 ## 🎯 Project Goal
@@ -141,4 +155,5 @@ Visit → [http://localhost:5173](http://localhost:5173)
 MIT License — free to use and modify with attribution.
 
 ```
+
 
