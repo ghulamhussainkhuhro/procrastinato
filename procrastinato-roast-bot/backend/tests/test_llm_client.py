@@ -10,9 +10,9 @@ def test_call_llm():
 
     try:
         response = call_llm(messages)
-        print("✅ LLM Response:", response)
+        print("LLM Response:", response)
     except Exception as e:
-        print("❌ Error:", e)
+        print("Error:", e)
 
 if __name__ == "__main__":
     test_call_llm()

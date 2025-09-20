@@ -11,12 +11,13 @@ GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 async def ask_groq(message: str) -> str:
     if not GROQ_API_KEY:
-        raise ValueError("❌ GROQ_API_KEY not found. Check your .env file.")
+        raise ValueError("GROQ_API_KEY not found. Check your .env file.")
 
     headers = {
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json",
     }
+    
 
     payload = {
         "model": "llama-3.3-70b-versatile",
