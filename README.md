@@ -65,7 +65,6 @@ To design and deploy a **fullstack AI chatbot** that:
 ### Frontend
 - React (Vite + TypeScript)
 - Tailwind CSS
-- Axios (API calls)
 
 ### Deployment
 - Docker
